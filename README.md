@@ -39,6 +39,6 @@
 |  macOS  |       [ClashX](https://github.com/yichengchen/clashX/releases) | [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)     |
 
 
-### تشکر ویژه از
+### Invaluable thanks
 
 [mahdibland](https://github.com/mahdibland/V2RayAggregator)
