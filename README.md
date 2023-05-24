@@ -58,7 +58,7 @@
 -------------------------------------------------
 <div  dir="ltr">
 
-## Softwares
+## Softwares | نرم افزار ها
 
   ### Best Clients For Each OS
 
