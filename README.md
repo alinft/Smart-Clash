@@ -25,25 +25,25 @@
 
 ## کانکشن ها
 
-- کانکشن های لوکیشن آلمان [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
+- کانکشن های لوکیشن آلمان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن امریکا [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
+- کانکشن های لوکیشن امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن فرانسه [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
+- کانکشن های لوکیشن فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن هلند [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
+- کانکشن های لوکیشن هلند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن کانادا [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
+- کانکشن های لوکیشن کانادا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن انگلستان [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
+- کانکشن های لوکیشن انگلستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
 <div  dir="rtl">
 
-- همه کانکشن با لوکیشن متفاوت # به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
+- همه کانکشن با لوکیشن متفاوت # به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
 
 
 
