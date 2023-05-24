@@ -23,6 +23,8 @@
 - دسترسی همزمان به ای پی های داخل شبکه برای تنظیمات مودم و روتر و ....
 <div  dir="rtl">
 
+## کانکشن ها
+
 - کانکشن های لوکیشن آلمان [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
