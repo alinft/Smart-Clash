@@ -22,18 +22,24 @@ dns:
 
 proxy-groups:
 
+  - name: 🔍 GOOGLE
+    type: select
+    proxies:
+      - DIRECT
+      - INTERNET
+
   - name: INTERNET
     type: url-test
     use:
-      - USA
+      - All
 
 proxy-providers:
 
-  USA:
+  All:
     type: http
-    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/us.yml"
+    url: "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_yaml.yml"
     interval: 86400
-    path: ./providers/us.yaml
+    path: ./providers/sub_merge_yaml.yaml
     health-check:
       enable: true
       interval: 3600
@@ -43,6 +49,8 @@ proxy-providers:
   
 
 rules:
+  - DOMAIN-SUFFIX,www-google.com,🔍 GOOGLE
+  - DOMAIN-SUFFIX,google.com,🔍 GOOGLE
 # Main rule
   - GEOIP,IR,DIRECT
   - GEOIP,private,DIRECT,no-resolve ## Loopback and LAN IPs

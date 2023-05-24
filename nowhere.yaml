@@ -38,11 +38,12 @@ proxy-providers:
   NoWhere:
     type: http
     url: "https://github.com/brommbromley/Smart-Clash/blob/source/main/node.yml"
-    interval: 3600
+    interval: 86400
     path: ./providers/nowhere.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 3600
+      lazy: true
       url: http://www.gstatic.com/generate_204
 
   

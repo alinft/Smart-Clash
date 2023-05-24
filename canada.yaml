@@ -38,11 +38,12 @@ proxy-providers:
   Canada:
     type: http
     url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/ca.yml"
-    interval: 3600
+    interval: 86400
     path: ./providers/ca.yaml
     health-check:
       enable: true
-      interval: 600
+      interval: 3600
+      lazy: true
       url: http://www.gstatic.com/generate_204
 
   
