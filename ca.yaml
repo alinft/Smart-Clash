@@ -37,7 +37,7 @@ proxy-providers:
 
   Canada:
     type: http
-    url: "https://domain/source/ca.yml"
+    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/source/ca.yml"
     interval: 3600
     path: ./providers/ca.yaml
     health-check:
