@@ -35,7 +35,7 @@ proxy-groups:
 
 proxy-providers:
 
-  Canada:
+  Netherlands:
     type: http
     url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/nl.yml"
     interval: 3600

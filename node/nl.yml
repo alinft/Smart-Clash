@@ -1,6 +1,5 @@
 proxies:
 
-
   - {'name': '🇳🇱NL-154.85.1.4-0091', 'server': '154.85.1.4', 'port': 443, 'type': 'vmess', 'uuid': '418048af-a293-4b99-9b0c-98ca3580dd24', 'alterId': 64, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
   - {'name': '🇳🇱NL-185.88.141.239-0694', 'server': 'passconf.xyz', 'port': 8080, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'qGjmI8WQlF0tfhDbkLqGdN'}
   - {'name': '🇳🇱NL-185.88.140.37-0695', 'server': '185.88.140.37', 'port': 8080, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'qGjmI8WQlF0tfhDbkLqGdN'}
