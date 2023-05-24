@@ -8,24 +8,34 @@
 - بروزرسانی خودکار کانکشن هوشمند کلش
 <div  dir="rtl">
 - انتخاب خودکار پرسرعت ترین کانکشن با کمترین پینگ نسبت به اینترنت کاربر
+<div  dir="rtl">
 
 - امکان استفاده همزمان از ترافیک اینترنت ملی و اینترنت جهانی بدون فیلتر برای دسترسی بدون مشکل به سایت های ایرانی مانند بانک ها و ...
+<div  dir="rtl">
 
 - امکان انتخاب نحوه اتصال به سرورهای google بین اینترنت داخلی یا اینترنت جهانی بدون فیلتر جهت جلوگیری از reCAPTCHA, error 403 ( پیش‌فرض اینترنت داخلی )
+<div  dir="rtl">
 
 - دسترسی همزمان به ای پی های داخل شبکه برای تنظیمات مودم و روتر و ....
+<div  dir="rtl">
 
 - کانکشن های لوکیشن آلمان [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
+<div  dir="rtl">
 
 - کانکشن های لوکیشن امریکا [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
+<div  dir="rtl">
 
 - کانکشن های لوکیشن فرانسه [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
+<div  dir="rtl">
 
 - کانکشن های لوکیشن هلند [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
+<div  dir="rtl">
 
 - کانکشن های لوکیشن کانادا [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
+<div  dir="rtl">
 
 - کانکشن های لوکیشن انگلستان [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
+<div  dir="rtl">
 
 - همه کانکشن با لوکیشن متفاوت # به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن را از اینجا کپی کنید](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
 
