@@ -31,7 +31,7 @@
 
 |    OS   |              Best Client               |
 |:-------:|:--------------------------------------:|
-|   iOS   |                                        |
+|   iOS   |            [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)         |
 | Android |            [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases)         |
 |AndroidTV|            [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases)         |
 | Windows |            [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)         |
