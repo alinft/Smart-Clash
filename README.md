@@ -43,7 +43,7 @@
 - کانکشن های لوکیشن انگلستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
 <div  dir="rtl">
 
-- همه کانکشن با لوکیشن متفاوت # به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
+- همه کانکشن ها با لوکیشن های متفاوت ## به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
 
 
 
