@@ -78,7 +78,7 @@ http://www.myip.ms/
 |    OS   |              Best Client               |
 |:-------:|:--------------------------------------:|
 |   iOS   |            [Stash](https://apps.apple.com/us/app/stash-rule-based-proxy/id1596063349)         |
-| Android |            [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases)         |
+| Android |            [Clash For Android](https://play.google.com/store/apps/details?id=com.github.kr328.clash&hl=en&gl=US)         |
 |AndroidTV|            [Clash For Android](https://github.com/Kr328/ClashForAndroid/releases)         |
 | Windows |            [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)         |
 |  Linux  |           [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)          |
