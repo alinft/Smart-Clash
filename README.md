@@ -33,7 +33,7 @@
 
 ## 🕊️ کانکشن ها 
 
-- کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
+- 🇩🇪 کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن امریکا 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
