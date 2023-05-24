@@ -42,3 +42,11 @@
 ### Invaluable thanks
 
 [mahdibland](https://github.com/mahdibland/V2RayAggregator)
+[Dreamacro](https://github.com/Dreamacro/clash)
+[yichengchen](https://github.com/yichengchen/clashX)
+[Kr328](https://github.com/Kr328/ClashForAndroid)
+[Fndroid](https://github.com/Fndroid/clash_for_windows_pkg)
+[vfarid](https://github.com/vfarid)
+[MortezaBashsiz](https://github.com/MortezaBashsiz)
+[ircfspace](https://github.com/ircfspace)
+[hiddify](https://github.com/hiddify/hiddify-config)
