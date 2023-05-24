@@ -1,4 +1,4 @@
-##   امکانات کانکشن هوشمند کلش - CLASH
+## 📌  امکانات کانکشن هوشمند کلش - CLASH
 
 <div  dir="rtl">
 
@@ -25,13 +25,13 @@
 
 ## 🕊️ کانکشن ها 
 
-- کانکشن های لوکیشن آلمان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
+- کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
+- کانکشن های لوکیشن امریکا 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
+- کانکشن های لوکیشن فرانسه 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن هلند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
