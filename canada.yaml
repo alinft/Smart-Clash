@@ -31,15 +31,15 @@ proxy-groups:
   - name: INTERNET
     type: url-test
     use:
-      - Netherlands
+      - Canada
 
 proxy-providers:
 
   Canada:
     type: http
-    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/source/nl.yml"
+    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/ca.yml"
     interval: 3600
-    path: ./providers/nl.yaml
+    path: ./providers/ca.yaml
     health-check:
       enable: true
       interval: 600

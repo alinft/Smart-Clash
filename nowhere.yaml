@@ -37,7 +37,7 @@ proxy-providers:
 
   NoWhere:
     type: http
-    url: "https://github.com/brommbromley/Smart-Clash/blob/source/nowhere.yml"
+    url: "https://github.com/brommbromley/Smart-Clash/blob/source/main/node.yml"
     interval: 3600
     path: ./providers/nowhere.yaml
     health-check:

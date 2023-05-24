@@ -37,7 +37,7 @@ proxy-providers:
 
   Germany:
     type: http
-    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/source/de.yml"
+    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/de.yml"
     interval: 3600
     path: ./providers/de.yaml
     health-check:
