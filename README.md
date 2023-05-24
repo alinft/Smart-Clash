@@ -32,6 +32,7 @@
 <div  dir="rtl">
 
 ## 🕊️ کانکشن ها 
+<div  dir="rtl">
 
 - 🇩🇪 کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
