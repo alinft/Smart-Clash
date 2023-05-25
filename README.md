@@ -24,7 +24,7 @@
 
 > بعد از اتصال میتوانید از طریق دو سایت زیر ای پی ایران و خارج خود را همزمان چک کنید
 
-> http://www.speedcheck.ir/
+> https://ipnumberia.com/
 
 > http://www.myip.ms/
 
