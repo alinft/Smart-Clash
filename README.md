@@ -76,11 +76,11 @@ http://www.myip.ms/
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و فرانسه 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyFrance.yaml)
+- کانکشن ترکیبی آلمان و فرانسه 🇩🇪 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyFrance.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی هلند و فرانسه 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/NetherlandsFrance.yaml)
+- کانکشن ترکیبی هلند و فرانسه 🇫🇷 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/NetherlandsFrance.yaml)
 <div  dir="rtl">
 
 
