@@ -52,13 +52,16 @@ http://www.myip.ms/
 - کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن امریکا 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
+- کانکشن های لوکیشن هلند 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
+<div  dir="rtl">
+
+- کانکشن ترکیبی آلمان و هلند 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlands.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن فرانسه 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن هلند 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
+- کانکشن های لوکیشن امریکا 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن کانادا 🇨🇦 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
