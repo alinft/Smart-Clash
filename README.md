@@ -104,6 +104,11 @@ http://www.myip.ms/
 
 
 ---
+# ❤️ 💰 Donate | حمایت مالی
+
+[َُUSDT-TRC20](https://github.com/brommbromley/Smart-Clash/blob/06dcd5c24c19dfdb6d42311e146b520ca723b338/Donate-USDT-TRC20.png)
+
+---
 ### Invaluable thanks
 
 - [mahdibland](https://github.com/mahdibland/V2RayAggregator) 
