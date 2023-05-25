@@ -47,15 +47,12 @@ http://www.myip.ms/
 <div  dir="rtl">
 
 -----------------------
-# 🕊️ کانکشن ها 
+# 🕊️ کانکشن ها بر اساس لوکیشن سرور
 
 - کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن هلند 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
-<div  dir="rtl">
-
-- کانکشن ترکیبی آلمان و هلند 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlands.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن فرانسه 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
@@ -70,7 +67,21 @@ http://www.myip.ms/
 - کانکشن های لوکیشن انگلستان 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
 <div  dir="rtl">
 
-- همه کانکشن ها با لوکیشن های متفاوت 🇺🇳 ## به دلیل تعداد بالای کانکشن امکان هنگ دستگاه یا برنامه وجود دارد [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/all.yaml)
+
+-----------------------
+# 🕊️ 🕊️ کانکشن های ترکیبی دو لوکیشن سرور
+
+
+- کانکشن ترکیبی آلمان و هلند 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlands.yaml)
+<div  dir="rtl">
+
+
+- کانکشن ترکیبی آلمان و فرانسه 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyFrance.yaml)
+<div  dir="rtl">
+
+
+- کانکشن ترکیبی هلند و فرانسه 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/NetherlandsFrance.yaml)
+<div  dir="rtl">
 
 
 
