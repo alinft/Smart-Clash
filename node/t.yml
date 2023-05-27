@@ -26,7 +26,6 @@ proxies:
   - {'name': '🇩🇪DE-168.119.64.242-2179', 'server': '168.119.64.242', 'port': 443, 'type': 'trojan', 'password': '9aa6b5ad-c0fc-47f4-a837-f72179d7b662', 'sni': 'channel1.unlimiteddev.tk', 'skip-cert-verify': False}
   - {'name': '🇩🇪DE-130.162.47.123-2266', 'server': '130.162.47.123', 'port': 6854, 'type': 'vmess', 'uuid': 'b5f7e932-f730-4ad2-b425-40977b9db332', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'servername': 'dengpao.de', 'network': 'ws', 'ws-opts': {'path': '/zBLPou'}}
   - {'name': '🇩🇪DE-145.239.1.100-2479', 'server': '145.239.1.100', 'port': 8119, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'cdBIDV42DCwnfIN'}
-  - {'name': '🇩🇪DE-145.239.1.100-2480', 'server': '145.239.1.100', 'port': 6379, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'zDNVedRFPQexG9v'}
   - {'name': '🇩🇪DE-145.239.1.100-2481', 'server': '145.239.1.100', 'port': 7001, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'RexnBgU7EV5ADxG'}
   - {'name': '🇩🇪DE-193.108.118.34-2507', 'server': '193.108.118.34', 'port': 2375, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
   - {'name': '🇩🇪DE-193.108.118.34-2508', 'server': '193.108.118.34', 'port': 2376, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'faBAoD54k87UJG7'}
