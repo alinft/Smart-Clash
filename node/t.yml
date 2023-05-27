@@ -13,7 +13,6 @@ proxies:
   - {'name': '🇩🇪DE-172.104.132.86-0801', 'server': 'vde1.0bad.com', 'port': 443, 'type': 'vmess', 'uuid': '927094d3-d678-4763-8591-e240d0bcae87', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'vde1.0bad.com'}}}
   - {'name': '🇩🇪DE-168.119.58.112-0808', 'server': '168.119.58.112', 'port': 80, 'type': 'vmess', 'uuid': 'e42d68db-4297-4c17-b5cf-44d421aef400', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
   - {'name': '🇩🇪DE-145.239.1.100-0932', 'server': '145.239.1.100', 'port': 8080, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'KixLvKzwjekG00rm'}
-  - {'name': '🇩🇪DE-145.239.1.100-0934', 'server': '145.239.1.100', 'port': 8888, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'Y6R9pAtvxxzmGC'}
   - {'name': '🇩🇪DE-145.239.1.100-0937', 'server': '145.239.1.100', 'port': 8882, 'type': 'ss', 'cipher': 'aes-256-gcm', 'password': 'kDWvXYZoTBcGkC4'}
   - {'name': '🇩🇪DE-52.58.249.78-0941', 'server': '52.58.249.78', 'port': 57824, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'pryhyxya'}
   - {'name': '🇩🇪DE-5.75.154.136-0974', 'server': '5.75.154.136', 'port': 63456, 'type': 'vmess', 'uuid': 'dab6ce8a-8059-4357-9083-c5283e1908b2', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
