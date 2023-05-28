@@ -92,6 +92,10 @@
 <div  dir="rtl">
 
 
+- کانکشن ترکیبی آلمان و هلند و انگلستان 🇳🇱 🇩🇪 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsUk.yaml)
+<div  dir="rtl">
+
+
 - کانکشن ترکیبی امریکا و کانادا 🇺🇸 🇨🇦 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/UsaCanada.yaml)
 <div  dir="rtl">
 
