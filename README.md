@@ -85,6 +85,18 @@
 <div  dir="rtl">
 
 
+- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان 🇫🇷 🇳🇱 🇩🇪 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUk.yaml)
+<div  dir="rtl">
+
+
+- کانکشن ترکیبی امریکا و کانادا 🇺🇸 🇨🇦 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/UsaCanada.yaml)
+<div  dir="rtl">
+
+
+- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان و کانادا و امریکا 🇫🇷 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUkCanadaUs.yaml)
+<div  dir="rtl">
+
+
 
 -------------------------------------------------
 <div  dir="ltr">
