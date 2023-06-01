@@ -67,6 +67,72 @@
 - کانکشن های لوکیشن انگلستان 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
 <div  dir="rtl">
 
+- کانکشن های لوکیشن امارات [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ae.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ارمنستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/am.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن استرالیا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/au.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن برزیل [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/br.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن چین [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/cn.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن چکوسلواکی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/cz.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن فنلاند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/fi.yaml)
+<div  dir="rtl">
+
+- کانکشن های سرور گوگل [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/google.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن هنگ کنگ [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/hk.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن هندوستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن هندوستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/in.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ایران [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ir.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ژاپن [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/jp.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن کره جنوبی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/kr.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن قطب جنوب [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/nowhere.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن لهستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/pl.yaml)
+<div  dir="rtl">
+
+- کانکشن های سرورهای واسط [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/relay.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن روسیه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ru.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن سوئد [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/se.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن سنگاپور [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/sg.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن تاجیکستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/tj.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن تایوان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/tw.yaml)
+<div  dir="rtl">
+
 
 -----------------------
 # 🕊️ 🕊️ کانکشن های ترکیبی چند سرور
