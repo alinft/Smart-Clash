@@ -3,7 +3,7 @@ import schedule
 import time
 
 def run_scripts():
-    subprocess.call(['python3', './node/dev/run_all.py'])
+    subprocess.call(['python', './node/dev/run_all.py'])
 
 schedule.every(1).hours.do(run_scripts)
 
