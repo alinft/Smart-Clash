@@ -13,5 +13,6 @@ jobs:
       - name: Update Repository
         run: |
           git pull
+          python autorun.py
           # Run any necessary update scripts or commands here
           # For example, you might run `pip install -r requirements.txt`
