@@ -1,0 +1,17 @@
+name: Update
+
+on:
+  schedule:
+    - cron: '0 */1 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Update Repository
+        run: |
+          git pull
+          # Run any necessary update scripts or commands here
+          # For example, you might run `pip install -r requirements.txt`
