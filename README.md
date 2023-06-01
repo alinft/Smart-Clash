@@ -49,22 +49,22 @@
 -----------------------
 # 🕊️ کانکشن ها بر اساس لوکیشن سرور
 
-- کانکشن های لوکیشن آلمان 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
+- کانکشن های لوکیشن آلمان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/germany.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن هلند 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
+- کانکشن های لوکیشن هلند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/netherlands.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن فرانسه 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
+- کانکشن های لوکیشن فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/france.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن امریکا 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
+- کانکشن های لوکیشن امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/us.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن کانادا 🇨🇦 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
+- کانکشن های لوکیشن کانادا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/canada.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن انگلستان 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
+- کانکشن های لوکیشن انگلستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن امارات [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ae.yaml)
@@ -138,35 +138,35 @@
 # 🕊️ 🕊️ کانکشن های ترکیبی چند سرور
 
 
-- کانکشن ترکیبی آلمان و هلند 🇩🇪 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlands.yaml)
+- کانکشن ترکیبی آلمان و هلند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlands.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و فرانسه 🇩🇪 🇫🇷 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyFrance.yaml)
+- کانکشن ترکیبی آلمان و فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyFrance.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی هلند و فرانسه 🇫🇷 🇳🇱 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/NetherlandsFrance.yaml)
+- کانکشن ترکیبی هلند و فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/NetherlandsFrance.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و هلند و فرانسه 🇫🇷 🇳🇱 🇩🇪 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFrance.yaml)
+- کانکشن ترکیبی آلمان و هلند و فرانسه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFrance.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان 🇫🇷 🇳🇱 🇩🇪 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUk.yaml)
+- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUk.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و هلند و انگلستان 🇳🇱 🇩🇪 🇬🇧 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsUk.yaml)
+- کانکشن ترکیبی آلمان و هلند و انگلستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsUk.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی امریکا و کانادا 🇺🇸 🇨🇦 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/UsaCanada.yaml)
+- کانکشن ترکیبی امریکا و کانادا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/UsaCanada.yaml)
 <div  dir="rtl">
 
 
-- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان و کانادا و امریکا 🇫🇷 🇳🇱 🇩🇪 🇬🇧 🇨🇦 🇺🇸 [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUkCanadaUs.yaml)
+- کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان و کانادا و امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUkCanadaUs.yaml)
 <div  dir="rtl">
 
 
