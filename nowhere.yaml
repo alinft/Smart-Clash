@@ -1,0 +1,57 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+ipv6: true
+external-controller: 127.0.0.1:9090
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  ipv6: true
+  default-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+
+proxy-groups:
+
+  - name: 🔍 GOOGLE
+    type: select
+    proxies:
+      - DIRECT
+      - INTERNET
+
+  - name: INTERNET
+    type: url-test
+    use:
+      - nowhere
+
+proxy-providers:
+
+  nowhere:
+    type: http
+    url: "https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/node/nowhere.yml"
+    interval: 86400
+    path: ./providers/nowhere.yaml
+    health-check:
+      enable: true
+      interval: 3600
+      lazy: true
+      url: http://www.gstatic.com/generate_204
+
+  
+
+rules:
+  - DOMAIN-SUFFIX,www-google.com,🔍 GOOGLE
+  - DOMAIN-SUFFIX,google.com,🔍 GOOGLE
+# Main rule
+  - GEOIP,IR,DIRECT
+  - GEOIP,private,DIRECT,no-resolve ## Loopback and LAN IPs
+  - MATCH,INTERNET
