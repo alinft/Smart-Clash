@@ -166,7 +166,7 @@
 - کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان و کانادا و امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUkCanadaUs.yaml)
 <div  dir="rtl">
 
-- کانکشن های سرورهای واسط - اتصال شما جهت امنیت از حداقل دو سرور گدر میکند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/relay.yaml)
+- کانکشن های سرورهای واسط - اتصال شما جهت امنیت از حداقل دو سرور گذر میکند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/relay.yaml)
 <div  dir="rtl">
 
 
