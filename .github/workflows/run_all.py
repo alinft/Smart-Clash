@@ -1,6 +1,6 @@
 import subprocess
 
-subprocess.call(['python', './node/dev/node/dev/us.py'])
+subprocess.call(['python', './node/dev/us.py'])
 subprocess.call(['python', './node/dev/ca.py'])
 subprocess.call(['python', './node/dev/nl.py'])
 subprocess.call(['python', './node/dev/fr.py'])
