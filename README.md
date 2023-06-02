@@ -115,9 +115,6 @@
 - کانکشن های لوکیشن لهستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/pl.yaml)
 <div  dir="rtl">
 
-- کانکشن های سرورهای واسط [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/relay.yaml)
-<div  dir="rtl">
-
 - کانکشن های لوکیشن روسیه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ru.yaml)
 <div  dir="rtl">
 
@@ -167,6 +164,9 @@
 
 
 - کانکشن ترکیبی آلمان و هلند و فرانسه و انگلستان و کانادا و امریکا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/GermanyNetherlandsFranceUkCanadaUs.yaml)
+<div  dir="rtl">
+
+- کانکشن های سرورهای واسط - اتصال شما جهت امنیت از حداقل دو سرور گدر میکند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/relay.yaml)
 <div  dir="rtl">
 
 
