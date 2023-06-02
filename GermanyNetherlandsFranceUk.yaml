@@ -89,5 +89,6 @@ rules:
   - DOMAIN-SUFFIX,google.com,🔍 GOOGLE
 # Main rule
   - GEOIP,IR,DIRECT
+  - DOMAIN-SUFFIX,ir,DIRECT
   - GEOIP,private,DIRECT,no-resolve ## Loopback and LAN IPs
   - MATCH,INTERNET
