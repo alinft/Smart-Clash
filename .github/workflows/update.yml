@@ -1,18 +1,39 @@
-name: Update
+name: update
 
 on:
+  workflow_dispatch:
+
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 0,3 * * *"
+    
 
 jobs:
-  update:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Update Repository
+      - name: Install Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: "3.x"
+      - name: Set Timezone
+        run: sudo timedatectl set-timezone 'Asia/Tehran'
+      - name: Install Requirements
         run: |
-          git pull
-          python autorun.py
-          # Run any necessary update scripts or commands here
-          # For example, you might run `pip install -r requirements.txt`
+          pip install -r ./node/dev/requirements.txt
+      - name: Running Tasks
+        run: |
+          python ./node/dev/run_all.py
+
+      - name: Commit Changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git pull origin master
+          git checkout master
+          git commit -m "$(date '+%Y-%m-%d %H:%M:%S') Update Nodes"
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
