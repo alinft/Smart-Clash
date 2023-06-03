@@ -4,7 +4,7 @@ name: Update All Nodes
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: '0 */1 * * *'
 
 jobs:
   run-all:
@@ -30,13 +30,15 @@ jobs:
           git add -A
           git commit -m "Automated commit - schedule run"
           git push
-      - name: Commit changes
-        run: |
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git pull origin master
-          git commit -m "♻️ $(date '+%Y-%m-%d %H:%M:%S') Tested"
-      - name: Push Change
+      
+      - name: Commit Changes
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update documentation"
+      
+      - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
           branch: master
