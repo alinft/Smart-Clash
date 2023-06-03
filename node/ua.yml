@@ -1,5 +1,5 @@
 proxies:
-  - {'name': '🇺🇦UA-185.250.150.14-0861', 'server': '185.250.150.14', 'port': 9029, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'dU3DSNS8wYPXzEKw'}
-  - {'name': '🇺🇦UA-195.28.182.217-8955', 'server': '195.28.182.217', 'port': 51348, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'shwoghRia'}
-  - {'name': '🇺🇦UA-79.133.108.7-15421', 'server': '79.133.108.7', 'port': 80, 'type': 'vmess', 'uuid': 'c01e2239-aa31-40c1-f123-c5dd1cc14fc8', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'mashtopituanbipi.tk'}}}
-  - {'name': '🇺🇦UA-79.133.108.15-15425', 'server': '79.133.108.15', 'port': 80, 'type': 'vmess', 'uuid': '18d45dc8-62aa-4a02-9c15-d9905059e3ad', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'goodbyefiltering.mashtopituanbipi.tk'}}}
+  - {'name': '🇺🇦UA-185.250.150.14-0767', 'server': '185.250.150.14', 'port': 9029, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'dU3DSNS8wYPXzEKw'}
+  - {'name': '🇺🇦UA-195.28.182.217-8692', 'server': '195.28.182.217', 'port': 51348, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'shwoghRia'}
+  - {'name': '🇺🇦UA-79.133.108.7-15179', 'server': '79.133.108.7', 'port': 80, 'type': 'vmess', 'uuid': 'c01e2239-aa31-40c1-f123-c5dd1cc14fc8', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'mashtopituanbipi.tk'}}}
+  - {'name': '🇺🇦UA-79.133.108.15-15183', 'server': '79.133.108.15', 'port': 80, 'type': 'vmess', 'uuid': '18d45dc8-62aa-4a02-9c15-d9905059e3ad', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'goodbyefiltering.mashtopituanbipi.tk'}}}
