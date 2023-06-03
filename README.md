@@ -1,3 +1,4 @@
+[![UpdateNodes](https://github.com/brommbromley/Smart-Clash/actions/workflows/UpdateNodes.yml/badge.svg?event=schedule)](https://github.com/brommbromley/Smart-Clash/actions/workflows/UpdateNodes.yml)
 # 📌  امکانات کانکشن هوشمند کلش - CLASH - رایگان 🆓
 
 <div  dir="rtl">
