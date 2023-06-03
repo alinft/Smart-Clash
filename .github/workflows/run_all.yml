@@ -29,10 +29,14 @@ jobs:
       - name: Running Tasks
         run: |
           python ./node/dev/run_all.py
-
+          
       - name: Commit Changes
-        run: |
-          git pull origin master
+        uses: EndBug/add-and-commit@v4
+        with:
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update Nodes"
+      
       - name: Push Changes
         uses: ad-m/github-push-action@master
         with:
