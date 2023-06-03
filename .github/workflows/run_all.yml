@@ -23,9 +23,6 @@ jobs:
           python-version: "3.x"
       - name: Set Timezone
         run: sudo timedatectl set-timezone 'Asia/Tehran'
-      - name: Install Requirements
-        run: |
-          pip install -r ./node/dev/requirements.txt
       - name: Running Tasks
         run: |
           python ./node/dev/run_all.py
