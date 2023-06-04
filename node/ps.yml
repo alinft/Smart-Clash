@@ -1,0 +1,2 @@
+proxies:
+  - {'name': '🇵🇸PS-82.213.5.50-1150', 'server': '82.213.5.50', 'port': 80, 'type': 'vmess', 'uuid': '1eeeff8d-0028-46ec-ec2a-d39401047fbb', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/qwer'}}

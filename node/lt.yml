@@ -1,0 +1,3 @@
+proxies:
+  - {'name': '🇱🇹LT-85.206.165.36-1114', 'server': '85.206.165.36', 'port': 443, 'type': 'vmess', 'uuid': 'ba49ab05-78f8-4b0b-9400-1826cc2d3f75', 'alterId': 64, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇱🇹LT-212.24.103.3-5733', 'server': '212.24.103.3', 'port': 443, 'type': 'trojan', 'password': '4f9ca636-5195-406a-b48c-0388689dd9a7', 'skip-cert-verify': False}

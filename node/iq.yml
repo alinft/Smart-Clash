@@ -1,0 +1,2 @@
+proxies:
+  - {'name': '🇮🇶IQ-37.236.95.2-1131', 'server': '37.236.95.2', 'port': 80, 'type': 'vmess', 'uuid': 'cb8cbbc3-137a-4064-8d02-b0ee3ca2c18c', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/qazxcv518', 'headers': {'Host': 'tou.wang66.homes'}}}

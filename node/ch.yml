@@ -1,0 +1,5 @@
+proxies:
+  - {'name': '🇨🇭CH-185.126.116.125-0270', 'server': '185.126.116.125', 'port': 9098, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'aLpQtfEZe445QyHk'}
+  - {'name': '🇨🇭CH-156.146.62.160-0792', 'server': '156.146.62.160', 'port': 443, 'type': 'ss', 'cipher': 'aes-128-cfb', 'password': 'shadowsocks'}
+  - {'name': '🇨🇭CH-152.67.71.149-5269', 'server': 'ch12.yukiss.eu.org', 'port': 18818, 'type': 'trojan', 'password': '8a03bc28-2a33-42c4-be59-30464dbb9954', 'skip-cert-verify': False}
+  - {'name': '🇨🇭CH-152.67.71.149-5974', 'server': 'ch12.yukiss.eu.org', 'port': 18818, 'type': 'trojan', 'password': '8a03bc28-2a33-42c4-be59-30464dbb9954', 'skip-cert-verify': False}

@@ -1,0 +1,2 @@
+proxies:
+  - {'name': '🇧🇦BA-185.164.35.9-0840', 'server': '185.164.35.9', 'port': 989, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'f8f7aCzcPKbsF8p3'}

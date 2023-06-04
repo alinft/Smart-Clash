@@ -1,0 +1,4 @@
+proxies:
+  - {'name': '🇪🇪EE-176.112.146.190-1092', 'server': '176.112.146.190', 'port': 80, 'type': 'vmess', 'uuid': 'f9247df4-02d5-4b31-acc5-4022652c5953', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇪🇪EE-46.36.219.85-1191', 'server': '46.36.219.85', 'port': 443, 'type': 'vmess', 'uuid': '96197594-323a-4ffb-bb3c-c7f64045187e', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇪🇪EE-37.252.5.234-6830', 'server': '37.252.5.234', 'port': 989, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'f8f7aCzcPKbsF8p3'}
