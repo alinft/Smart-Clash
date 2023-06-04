@@ -1,2 +1,2 @@
 proxies:
-  - {'name': '🇱🇻LV-185.135.86.173-0819', 'server': '185.135.86.173', 'port': 9003, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'JdmRK9gMEqFgs8nP'}
+  - {'name': '🇱🇻LV-185.135.86.173-0786', 'server': '185.135.86.173', 'port': 9003, 'type': 'ss', 'cipher': 'aes-256-cfb', 'password': 'JdmRK9gMEqFgs8nP'}

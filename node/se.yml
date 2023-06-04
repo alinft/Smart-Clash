@@ -1,5 +1,6 @@
 proxies:
-  - {'name': '🇸🇪SE-13.53.37.45-0176', 'server': 'z0117.security-cloudfront-cdn.com', 'port': 42833, 'type': 'ssr', 'cipher': 'aes-256-cfb', 'password': 'YpX2opBbrfqJzzMs', 'protocol': 'origin', 'obfs': 'http_simple', 'protocol-param': '', 'obfs-param': ''}
-  - {'name': '🇸🇪SE-13.49.241.14-3760', 'server': '13.49.241.14', 'port': 27092, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'pydQILh06AvJ'}
-  - {'name': '🇸🇪SE-13.48.202.26-4471', 'server': '13.48.202.26', 'port': 22222, 'type': 'trojan', 'password': 'telegram-id-privatevpns', 'sni': 'trj.rollingnext.co.uk', 'skip-cert-verify': False}
-  - {'name': '🇸🇪SE-13.50.153.230-5464', 'server': '13.50.153.230', 'port': 25289, 'type': 'vmess', 'uuid': 'fe2bd77d-312e-4ac0-defe-afdb279528a0', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇸🇪SE-13.53.37.45-0117', 'server': 'z0117.security-cloudfront-cdn.com', 'port': 42833, 'type': 'ssr', 'cipher': 'aes-256-cfb', 'password': 'YpX2opBbrfqJzzMs', 'protocol': 'origin', 'obfs': 'http_simple', 'protocol-param': 'Non%%', 'obfs-param': ''}
+  - {'name': '🇸🇪SE-13.49.241.14-3727', 'server': '13.49.241.14', 'port': 27092, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'pydQILh06AvJ'}
+  - {'name': '🇸🇪SE-13.48.202.26-4438', 'server': '13.48.202.26', 'port': 22222, 'type': 'trojan', 'password': 'telegram-id-privatevpns', 'sni': 'trj.rollingnext.co.uk', 'skip-cert-verify': False}
+  - {'name': '🇸🇪SE-13.50.153.230-5381', 'server': '13.50.153.230', 'port': 25289, 'type': 'vmess', 'uuid': 'fe2bd77d-312e-4ac0-defe-afdb279528a0', 'alterId': 0, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇸🇪SE-216.24.57.253-10960', 'server': 'xxrenderxx.onrender.com', 'port': 443, 'type': 'vmess', 'uuid': '60d95d79-0355-4593-a669-933c29cf9e64', 'alterId': 0, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/60d95d79-0355-4593-a669-933c29cf9e64', 'headers': {'Host': 'xxrenderxx.onrender.com'}}}

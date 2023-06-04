@@ -1,10 +1,10 @@
 proxies:
-  - {'name': '🇦🇪AE-165.154.241.20-0610', 'server': 'jp1117.ljydw.top', 'port': 80, 'type': 'trojan', 'password': '6d9d7c53-3dcd-43bf-b60c-cac077817077', 'sni': 'jp1117.ljydw.top', 'skip-cert-verify': False}
-  - {'name': '🇦🇪AE-194.156.120.15-2690', 'server': 'free-russian01-cdn.xiaohouzi.club', 'port': 80, 'type': 'vmess', 'uuid': '3d31728e-064d-42b8-b945-f79c008f73fc', 'alterId': 233, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'free-russian01-cdn.xiaohouzi.club'}}}
-  - {'name': '🇦🇪AE-109.169.72.249-5241', 'server': '109.169.72.249', 'port': 809, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - {'name': '🇦🇪AE-109.169.72.249-5330', 'server': '109.169.72.249', 'port': 806, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - {'name': '🇦🇪AE-109.169.72.249-5621', 'server': '109.169.72.249', 'port': 810, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - {'name': '🇦🇪AE-109.169.72.249-5682', 'server': '109.169.72.249', 'port': 802, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - {'name': '🇦🇪AE-109.169.72.249-5767', 'server': '109.169.72.249', 'port': 801, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
-  - {'name': '🇦🇪AE-176.97.67.144-7034', 'server': '176.97.67.144', 'port': 444, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': '0ZxXUddK85ET'}
-  - {'name': '🇦🇪AE-109.169.72.249-7035', 'server': '109.169.72.249', 'port': 805, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-165.154.241.20-0617', 'server': 'jp1117.ljydw.top', 'port': 80, 'type': 'trojan', 'password': '6d9d7c53-3dcd-43bf-b60c-cac077817077', 'sni': 'jp1117.ljydw.top', 'skip-cert-verify': False}
+  - {'name': '🇦🇪AE-194.156.120.15-2655', 'server': 'free-russian01-cdn.xiaohouzi.club', 'port': 80, 'type': 'vmess', 'uuid': '3d31728e-064d-42b8-b945-f79c008f73fc', 'alterId': 233, 'cipher': 'auto', 'tls': False, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/', 'headers': {'Host': 'free-russian01-cdn.xiaohouzi.club'}}}
+  - {'name': '🇦🇪AE-109.169.72.249-5158', 'server': '109.169.72.249', 'port': 809, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-109.169.72.249-5247', 'server': '109.169.72.249', 'port': 806, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-109.169.72.249-5538', 'server': '109.169.72.249', 'port': 810, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-109.169.72.249-5599', 'server': '109.169.72.249', 'port': 802, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-109.169.72.249-5684', 'server': '109.169.72.249', 'port': 801, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}
+  - {'name': '🇦🇪AE-176.97.67.144-6951', 'server': '176.97.67.144', 'port': 444, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': '0ZxXUddK85ET'}
+  - {'name': '🇦🇪AE-109.169.72.249-6952', 'server': '109.169.72.249', 'port': 805, 'type': 'ss', 'cipher': 'chacha20-ietf-poly1305', 'password': 'G!yBwPWH3Vao'}

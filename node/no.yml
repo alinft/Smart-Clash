@@ -1,2 +1,2 @@
 proxies:
-  - {'name': '🇳🇴NO-46.29.218.84-1112', 'server': '46.29.218.84', 'port': 443, 'type': 'vmess', 'uuid': 'f7a456da-9886-4dd7-b193-4c59a726219c', 'alterId': 64, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}
+  - {'name': '🇳🇴NO-46.29.218.84-1119', 'server': '46.29.218.84', 'port': 443, 'type': 'vmess', 'uuid': 'f7a456da-9886-4dd7-b193-4c59a726219c', 'alterId': 64, 'cipher': 'auto', 'tls': True, 'skip-cert-verify': False, 'network': 'ws', 'ws-opts': {'path': '/'}}

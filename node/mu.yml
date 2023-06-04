@@ -1,2 +1,2 @@
 proxies:
-  - {'name': '🇲🇺MU-45.195.198.227-1273', 'server': 'trs13hk.bolab.net', 'port': 443, 'type': 'trojan', 'password': '7a73f1dc97a70905870c0c0484b12145', 'sni': 'trs13hk.bolab.net', 'skip-cert-verify': False}
+  - {'name': '🇲🇺MU-45.195.198.227-0101', 'server': 'trs13hk.bolab.net', 'port': 443, 'type': 'trojan', 'password': '7a73f1dc97a70905870c0c0484b12145', 'sni': 'trs13hk.bolab.net', 'skip-cert-verify': False}
