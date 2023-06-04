@@ -1,4 +1,4 @@
-[![Update](https://github.com/mahdibland/SSAggregator/actions/workflows/Collector.yml/badge.svg)
+![Update](https://github.com/mahdibland/SSAggregator/actions/workflows/Collector.yml/badge.svg)
 # 📌  امکانات کانکشن هوشمند کلش - CLASH - رایگان 🆓
 
 <div  dir="rtl">
