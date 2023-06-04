@@ -95,13 +95,16 @@
 - کانکشن های لوکیشن هنگ کنگ [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/hk.yaml)
 <div  dir="rtl">
 
-- کانکشن های لوکیشن هندوستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/uk.yaml)
+- کانکشن های لوکیشن ایتالیا [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/it.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن هندوستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/in.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن ایران [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ir.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن عراق [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/iq.yaml)
 <div  dir="rtl">
 
 - کانکشن های لوکیشن ژاپن [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/jp.yaml)
@@ -129,6 +132,63 @@
 <div  dir="rtl">
 
 - کانکشن های لوکیشن تایوان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/tw.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن اندونزی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/id.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ایرلند [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ie.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ویتنام [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/vn.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ترکیه [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/tr.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن عربستان سعودی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/sa.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن اسرائيل [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/is.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن فلسطین [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ps.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن شیلی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/cl.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن سوئیس [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ch.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن لتونی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/lv.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن لیتوانی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/lt.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن قبرس [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/cy.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن موریس [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/mu.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن بوسنی و هرزگوین [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ba.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن بلغارستان [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/bg.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن ماکائو [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/mo.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن مکزیک [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/mx.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن استونی [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/ee.yaml)
+<div  dir="rtl">
+
+- کانکشن های لوکیشن نروژ [لینک کانکشن](https://raw.githubusercontent.com/brommbromley/Smart-Clash/main/no.yaml)
 <div  dir="rtl">
 
 
